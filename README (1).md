@@ -152,5 +152,5 @@ jupyter notebook
 
 ## 👤 Author  
 
-**Kuntal Khan**  
+**Joy Talukdar**  
  
